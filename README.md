@@ -33,7 +33,7 @@
   <li>
     <strong>Clone the Repository</strong>
     <p>Clone the script repository:</p>
-    <pre><code>git clone https://github.com/AQBro/script</code></pre>
+    <pre><code>git clone https://github.com/AQBro/adbch</code></pre>
   </li>
   <li>
     <strong>Navigate to the Script Directory</strong>
